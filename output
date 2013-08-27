@@ -1,0 +1,1 @@
+gcc -o main -g  my402list.o server.o thread1.o thread2.o queue.o token.o -lpthread
